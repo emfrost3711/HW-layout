@@ -16,62 +16,65 @@ body {
 .header {
     background-color: #ebebeb;
     color: #777;
-    margin: 15px;
-    padding: 15px;
+    margin: 5px 25px;
+    padding: 40px;
     
 }
 
 .nav {
     background-color: #ebebeb;
-    margin: 15px;
-    padding: 15px;
+    color: #777;
+    margin: 10px 25px;
+    padding: 40px;
 }
 
 .section {
     background-color: #ebebeb;
     float: left;
     font-size: 18px;
-    margin-top: 20px;
-    padding: 25px 25px 5px 10px;
+    margin: 10px 5px 10px 25px;
+    padding: 45px 25px 5px 25px;
     width: 495px;
 }
 
 #article {
     background-color: #777;
     color: #ebebeb;
-    margin: 50px 10px;
-    padding: 15px;
-    width: 75%;
+    margin: 54px 10px 10px -12px;
+    padding: 27px 30px 10px;
+    width: 93%;
 }
 
 #h1, h2, h3 {
-    background:#ebebeb;
+    background: #ebebeb;
     color: #777;
-    margin: 15px;
+    margin: 25px 0px 10px 0px;
     padding: 15px;
+    width: 92.5%;
 }
 
 #p {
-    background:#ebebeb;
+    background: #ebebeb;
     color: #777;
-    margin: 15px;
-    padding: 15px;
+    margin: 10px 0px 10px 0px;
+    padding: 3px;
+    width: 98%;
 }
 
 .aside {
     background-color: #ebebeb;
     color: #777;
     float: right;
-    margin: 20px;
-    padding: 150px;
-    width: 15%;
+    margin: 10px 238px 20px 10px;
+    padding: 50px 116px 285px 87px;
+    width: 10%;
 }
 
 .footer {
     background-color: #ebebeb;
     clear: both;
-    margin: 15px;
-    padding: 15px;
+    margin: 15px 10px 5px 235px;
+    padding: 25px 30px;
     text-align: center;
-    width: 960px;
+    width: 61.5%;
 }
